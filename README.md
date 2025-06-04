@@ -1,4 +1,4 @@
-<p style="text-align: center">
+<p align="center">
   <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
 </p>
 
@@ -6,8 +6,8 @@
 
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p style="text-align: center">The Ultimate <b>Cars API</b> made with <a href="https://nestjs.com" target="_blank">Nest.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p style="text-align: center">
+  <p align="center">The Ultimate <b>Cars API</b> made with <a href="https://nestjs.com" target="_blank">Nest.js</a> framework for building efficient and scalable server-side applications.</p>
+    <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Support me-PayPal-ff3f59.svg" alt="Support me"/></a>
 </p>
 
