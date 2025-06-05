@@ -9,6 +9,7 @@
   <p align="center">The Ultimate <b>Cars API</b> made with <a href="https://nestjs.com" target="_blank">Nest.js</a> framework for building efficient and scalable server-side applications.</p>
     <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Support me-PayPal-ff3f59.svg" alt="Support me"/></a>
+  <a href='https://coveralls.io/github/CorentynDevPro/Cars-API?branch=master'><img src='https://coveralls.io/repos/github/CorentynDevPro/Cars-API/badge.svg?branch=master' alt='Coverage Status' /></a>
 </p>
 
 ## Description
