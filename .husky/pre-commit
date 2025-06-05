@@ -1,0 +1,5 @@
+echo "🔍 Linting and formatting check..."
+pnpm format
+pnpm lint
+
+echo "✅ pre-commit passed!"
